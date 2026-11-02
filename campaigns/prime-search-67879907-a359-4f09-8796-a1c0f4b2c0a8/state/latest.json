@@ -1,12 +1,12 @@
 {
   "schemaVersion": "1.0.0",
   "campaignId": "prime-search-67879907-a359-4f09-8796-a1c0f4b2c0a8",
-  "sequence": 31,
-  "snapshotPath": "campaigns/prime-search-67879907-a359-4f09-8796-a1c0f4b2c0a8/state/snapshots/checkpoint-000031.json",
-  "snapshotSha256": "447b886a5ae20cb99de76f39821ecf0860ce69ef11f599c5ff5131fd8216d795",
-  "lastPublishedPackageId": 31,
-  "lastPublishedLogicalBlock": 3099,
-  "nextLogicalBlockToPublish": 3100,
+  "sequence": 32,
+  "snapshotPath": "campaigns/prime-search-67879907-a359-4f09-8796-a1c0f4b2c0a8/state/snapshots/checkpoint-000032.json",
+  "snapshotSha256": "df9dbec800b1640e9aed28b58c0aefb485965d12dd9305df49ce15bd2dfa9088",
+  "lastPublishedPackageId": 32,
+  "lastPublishedLogicalBlock": 3199,
+  "nextLogicalBlockToPublish": 3200,
   "jobId": "67879907-a359-4f09-8796-a1c0f4b2c0a8",
   "jobType": "PRIME_SEARCH"
 }
