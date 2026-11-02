@@ -1,0 +1,25 @@
+{
+  "phase": "PRODUCTS",
+  "packages": [
+    {
+      "packageId": 1,
+      "filename": "products-pack-000001.zip",
+      "sha256": "b852dd6b0325327ff349fa9578c4f5701dc9bcb5fcf863542c45e6de6bb699a8",
+      "sizeBytes": 642244,
+      "firstLogicalBlock": 0,
+      "lastLogicalBlock": 99,
+      "blockSize": 30030,
+      "blockCount": 100,
+      "generatorVersion": "1.0.0",
+      "wheelVersion": "primorial-13-v1",
+      "publishedAt": "2026-11-02T23:30:33.387Z",
+      "products": {
+        "strategyVersion": "products-package-v1",
+        "taskContractVersion": "prime-product-task-v1",
+        "validatorVersion": "prime-product-validator-v1",
+        "sourcePackageId": 1,
+        "sourceJobId": "735d8bf2-dbd2-4d38-b8ee-a0e15ac2b01b"
+      }
+    }
+  ]
+}
