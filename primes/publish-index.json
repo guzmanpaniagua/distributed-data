@@ -1,0 +1,18 @@
+{
+  "phase": "PRIMES",
+  "packages": [
+    {
+      "packageId": 1,
+      "filename": "primes-pack-000001.zip",
+      "sha256": "1fae56e8e5cd653786e12293486672e1f15b0cc552aea4a10bb0400fea6079f0",
+      "sizeBytes": 529548,
+      "firstLogicalBlock": 0,
+      "lastLogicalBlock": 99,
+      "blockSize": 30030,
+      "blockCount": 100,
+      "generatorVersion": "1.0.0",
+      "wheelVersion": "primorial-13-v1",
+      "publishedAt": "2026-11-02T01:41:49.832Z"
+    }
+  ]
+}
