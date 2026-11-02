@@ -481,6 +481,19 @@
       "generatorVersion": "1.0.0",
       "wheelVersion": "primorial-13-v1",
       "publishedAt": "2026-11-02T18:31:45.102Z"
+    },
+    {
+      "packageId": 38,
+      "filename": "primes-pack-000038.zip",
+      "sha256": "577c8d5d731d21136509b6cb6c9e4dd732d77ad42e8b95aa079b42ebcd151b9b",
+      "sizeBytes": 428143,
+      "firstLogicalBlock": 3700,
+      "lastLogicalBlock": 3799,
+      "blockSize": 30030,
+      "blockCount": 100,
+      "generatorVersion": "1.0.0",
+      "wheelVersion": "primorial-13-v1",
+      "publishedAt": "2026-11-02T18:34:26.991Z"
     }
   ]
 }
