@@ -180,6 +180,26 @@
         "sourcePackageId": 9,
         "sourceJobId": "67879907-a359-4f09-8796-a1c0f4b2c0a8"
       }
+    },
+    {
+      "packageId": 10,
+      "filename": "products-pack-000010.zip",
+      "sha256": "20a5f14199e748ce1c77e89b12d5f31a1241a3e6462c7d88deb1a95825ee450d",
+      "sizeBytes": 642864,
+      "firstLogicalBlock": 900,
+      "lastLogicalBlock": 999,
+      "blockSize": 30030,
+      "blockCount": 100,
+      "generatorVersion": "1.0.0",
+      "wheelVersion": "primorial-13-v1",
+      "publishedAt": "2026-11-02T23:55:26.425Z",
+      "products": {
+        "strategyVersion": "products-package-v1",
+        "taskContractVersion": "prime-product-task-v1",
+        "validatorVersion": "prime-product-validator-v1",
+        "sourcePackageId": 10,
+        "sourceJobId": "67879907-a359-4f09-8796-a1c0f4b2c0a8"
+      }
     }
   ]
 }
