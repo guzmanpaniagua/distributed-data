@@ -9,15 +9,15 @@
     },
     {
       "phase": "PRODUCTS",
-      "status": "ACTIVE",
+      "status": "COMPLETED",
       "startedAt": "2026-11-02T23:17:40.710Z",
-      "completedAt": null,
-      "completedBy": null
+      "completedAt": "2026-11-08T00:29:23.044Z",
+      "completedBy": "guzman"
     },
     {
       "phase": "ANCHORS",
-      "status": "PLANNED",
-      "startedAt": null,
+      "status": "ACTIVE",
+      "startedAt": "2026-11-08T00:29:23.044Z",
       "completedAt": null,
       "completedBy": null
     },
@@ -62,6 +62,12 @@
       "user": "guzman",
       "phase": "PRIMES",
       "timestamp": "2026-11-02T23:17:40.710Z",
+      "action": "PHASE_COMPLETED"
+    },
+    {
+      "user": "guzman",
+      "phase": "PRODUCTS",
+      "timestamp": "2026-11-08T00:29:23.044Z",
       "action": "PHASE_COMPLETED"
     }
   ]
